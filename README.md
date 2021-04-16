@@ -10,7 +10,8 @@ v1.0 - 15/08/2003
 
     -S -> scan mode, put nuas on stdin
 
-USE <F2> to start logging in "logfile" (appends what you write AND a dump of what you receive)
+USE <F2> to start logging in "logfile" (appends what you write AND a dump of
+what you receive)
 
 USE <F3> to stop logging
 
